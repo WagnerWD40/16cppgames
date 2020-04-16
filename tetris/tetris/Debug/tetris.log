@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Temp\tetris\tetris\tetris\main.cpp(45,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+D:\Temp\tetris\tetris\tetris\main.cpp(105,25): warning C4305: '=': truncamento de 'double' para 'float'
+D:\Temp\tetris\tetris\tetris\main.cpp(202,20): warning C4305: '=': truncamento de 'double' para 'float'
+D:\Temp\tetris\tetris\tetris\main.cpp(218,46): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+D:\Temp\tetris\tetris\tetris\main.cpp(218,38): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+D:\Temp\tetris\tetris\tetris\main.cpp(227,52): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+D:\Temp\tetris\tetris\tetris\main.cpp(227,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  tetris.vcxproj -> D:\Temp\tetris\tetris\Debug\tetris.exe
